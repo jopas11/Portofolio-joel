@@ -74,12 +74,12 @@ export default function Contact({ email }) {
               <a href={`mailto:${email}`}>{email}</a>
             </li>
             <li>
-              <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">
+              <a href="https://www.linkedin.com/in/joel-pasaribu-ba29111ab" target="_blank" rel="noreferrer">
                 LinkedIn
               </a>
             </li>
             <li>
-              <a href="https://github.com" target="_blank" rel="noreferrer">
+              <a href="https://github.com/jopas11" target="_blank" rel="noreferrer">
                 GitHub
               </a>
             </li>
